@@ -2,6 +2,6 @@ Git - https://github.com/tania-prut/-Git- (готовий до перевірк�
 Docker - https://github.com/tania-prut/docker (готовий до перевірки) <br>
 Coordinates  - https://github.com/tania-prut/Coordinates (готовий до перевірки) <br>
 Radar  -  https://github.com/tania-prut/radar (готовий до перевірки) <br>
-GPS -  <br>
+GPS - https://github.com/tania-prut/gps (готовий до перевірки) <br>
 Loran -  <br>
 Kalman - <br>

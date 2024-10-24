@@ -3,5 +3,5 @@ Docker - https://github.com/tania-prut/docker (готовий до переві�
 Coordinates  - https://github.com/tania-prut/Coordinates (готовий до перевірки) <br>
 Radar  -  https://github.com/tania-prut/radar (готовий до перевірки) <br>
 GPS - https://github.com/tania-prut/gps (готовий до перевірки) <br>
-Loran -  <br>
+Loran - https://github.com/tania-prut/loran/tree/main (готовий до перевірки) <br>
 Kalman - <br>

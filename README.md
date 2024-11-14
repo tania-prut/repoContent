@@ -4,4 +4,4 @@ Coordinates  - https://github.com/tania-prut/Coordinates (готовий до п
 Radar  -  https://github.com/tania-prut/radar (готовий до перевірки) <br>
 GPS - https://github.com/tania-prut/gps (готовий до перевірки) <br>
 Loran - https://github.com/tania-prut/loran/tree/main (готовий до перевірки) <br>
-Kalman - <br>
+Kalman - https://github.com/tania-prut/Kalman (готовий до перевірки) <br>
